@@ -1,6 +1,6 @@
 # RUST CLI Binary with SQLite
 
-[![Rust CI/CD](https://github.com/nogibjj/IDS706_Individual_Project2_KM632/actions/workflows/rust.yml/badge.svg)](https://github.com/nogibjj/IDS706_Individual_Project2_KM632/actions/workflows/rust.yml)
+[![Rust CI/CD](https://github.com/khaliun20/rust_CLI_binary_with_SQLite/actions/workflows/rust.yml/badge.svg)](https://github.com/khaliun20/rust_CLI_binary_with_SQLite/actions/workflows/rust.yml)
 
 ## Project Overview
 
